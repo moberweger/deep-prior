@@ -1,3 +1,5 @@
+# This work is superseded by [DeepPrior++](https://github.com/moberweger/deep-prior-pp)
+
 # DeepPrior - Accurate and Fast 3D Hand Pose Estimation
 
 Author: Markus Oberweger <oberweger@icg.tugraz.at>
